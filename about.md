@@ -2,4 +2,4 @@
 title: about
 image: pic03.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+Heya! My name's Robyn -- I'm an aspiring games designer and 3D artist who is currently studying Digital Media and Games Design. I love making models and assets for game mods in my spare time and I frequently take part in game jams and hackathons. 
