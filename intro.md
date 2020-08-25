@@ -7,8 +7,8 @@ title: projects
 <div id="slideshow">
   <div class="slide-wrapper">
     <div class="slide"><img src="/assets/images/IR Images/CommissionLocoWIP.png"></img></div>
-    <div class="slide"><img src="/assets/images/IR Images/CommisionEngine1.png"></img></div>
-    <div class="slide"><img src="/assets/images/IR Images/CommissionEngine2P.png"></img></div>
+    <div class="slide"><img src="/assets/images/IR Images/CommissionEngine1.png"></img></div>
+    <div class="slide"><img src="/assets/images/IR Images/CommissionEngine2.png"></img></div>
     <div class="slide"><img src="/assets/images/IR Images/C1Completed!.png"></img></div>
   </div>
 </div>
