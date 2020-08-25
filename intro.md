@@ -4,45 +4,11 @@ title: projects
 <h3>Current project: Making addons for Immersive Railroading</h3>
 <p>In my spare time, I've been learning how to integrate 3D models into Minecraft via a mod called Immersive Railroading. This involved creating a mesh, texturing the mesh, giving it properties via json and extensive playtesting/bugfixing.</p>
 ---
-<!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 4</div>
-    <img src="/assets/images/IR Images/CommissionLocoWIP.png" style="width:100%">
-    <div class="text">Here's an image of one of my models mid-production</div>
+<div id="slideshow">
+  <div class="slide-wrapper">
+    <div class="slide"><img src="/assets/images/IR Images/CommissionLocoWIP.png"></img></div>
+    <div class="slide"><img src="/assets/images/IR Images/CommisionEngine1.png"></img></div>
+    <div class="slide"><img src="/assets/images/IR Images/CommissionEngine2P.png"></img></div>
+    <div class="slide"><img src="/assets/images/IR Images/C1Completed!.png"></img></div>
   </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 4</div>
-    <img src="/assets/images/IR Images/CommissionEngine1.png" style="width:100%">
-    <div class="text">This is the completed mesh!</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 4</div>
-    <img src="/assets/images/IR Images/CommissionEngine2.png" style="width:100%">
-    <div class="text">Another render!</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">4 / 4</div>
-    <img src="/assets/images/IR Images/C1Completed!.png" style="width:100%">
-    <div class="text">Here's the final product! Animations and particles were done via json files</div>
-  </div>
-
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
 </div>
