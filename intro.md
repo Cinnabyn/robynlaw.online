@@ -8,25 +8,25 @@ image: pic01.jpg
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
-    <img src="CommissionLocoWIP.png" style="width:100%">
+    <img src="/assets/images/IR Images/CommissionLocoWIP.png" style="width:100%">
     <div class="text">Here's an image of one of my models mid-production</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 4</div>
-    <img src="CommissionEngine1.png" style="width:100%">
+    <img src="/assets/images/IR Images/CommissionEngine1.png" style="width:100%">
     <div class="text">This is the completed mesh!</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
-    <img src="CommissionEngine2.png" style="width:100%">
+    <img src="/assets/images/IR Images/CommissionEngine2.png" style="width:100%">
     <div class="text">Another render!</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="C1Completed!.png" style="width:100%">
+    <img src="/assets/images/IR Images/C1Completed!.png" style="width:100%">
     <div class="text">Here's the final product! Animations and particles were done via json files</div>
   </div>
 
