@@ -1,6 +1,5 @@
 ---
 title: Projects
-image: pic01.jpg
 ---
 <!-- Slideshow container -->
 <div class="slideshow-container">
