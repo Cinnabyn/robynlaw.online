@@ -6,9 +6,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Robyn Law
 street_address:
-city:
+city: Bromsgrove
 state: West Midlands
-zip_code: 55555
+zip_code:
 country: United Kingdoms
 phone:
 
@@ -22,7 +22,7 @@ googleplus_url:
 instagram_url:
 linkedin_url: https://www.linkedin.com/in/robyn-law-baba66185/
 pinterest_url:
-slack_url:
+slack_url: https://app.slack.com/client/T0383959N/D018QAZP4UU/user_profile/U0183D2T4QP
 twitter_url: https://twitter.com/cinnabyn
 
 # Build settings
