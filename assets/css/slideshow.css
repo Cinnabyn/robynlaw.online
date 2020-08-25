@@ -44,6 +44,10 @@ body {
   font-size: 10em;
 }
 
+.slide img {
+  max-width: 100%;
+}
+
 @-webkit-keyframes slide {
   20% {margin-left: 0px;}
   30% {margin-left: -728px;}
