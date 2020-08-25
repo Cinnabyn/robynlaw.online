@@ -1,5 +1,7 @@
 ---
-title: Projects
+title: projects
+---
+<h1>Current project Making addons for Immersive Railroading</h1>
 ---
 <!-- Slideshow container -->
 <div class="slideshow-container">
