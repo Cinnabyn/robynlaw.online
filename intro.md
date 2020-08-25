@@ -1,7 +1,8 @@
 ---
 title: projects
 ---
-<h1>Current project Making addons for Immersive Railroading</h1>
+<h3>Current project: Making addons for Immersive Railroading</h3>
+<p>In my spare time, I've been learning how to integrate 3D models into Minecraft via a mod called Immersive Railroading. This involved creating a mesh, texturing the mesh, giving it properties via json and extensive playtesting/bugfixing.</p>
 ---
 <!-- Slideshow container -->
 <div class="slideshow-container">
